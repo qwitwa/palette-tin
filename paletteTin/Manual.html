@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--BBD's Krita Script Starter, Feb 2018 -->
+<head>
+    <title>Palette Tin Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        code {
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Palette Tin</h1>
+    
+    <p>Palette Tin is a Krita Docker plugin designed to help with color mixing and palette management. Inspired by the Art Academy mixing interface, it aims to make painting more fun by reducing the need for micromanaging color picking and mixing outside the canvas.</p>
+
+    <h2>Features</h2>
+    <h3>Color Mixing Modes</h3>
+    <ol>
+        <li>Spectral: Uses Kubelka-Munk theory (via [spectral.js](https://github.com/rvanwijnen/spectral.js))</li>
+        <li>Weighted Average: Mixes two colors using a weighted average.</li>
+        <li>Hybrid: Combines spectral (60%) and weighted average (40%) for slightly less saturated results.</li>
+        <li>Overlay: Blends colors based on lightness (Screen if light, Multiply if dark), useful when highly saturated mixes are needed</li>
+        <li>Sat Val: Transfers saturation and value from the foreground while preserving the hue.</li>
+        <li>Sat Val okhsl: Transfers okhsl saturation and lightness, retaining perceptual values. (via [Björn Ottosson OKHSL](https://bottosson.github.io/misc/ok_color.h))</li>
+    </ol>
+
+    <h3>Palette Management</h3>
+    <ol>
+        <li>Saves the palette directly into the working document as a note.</li>
+        <li>Stores palettes for later use in other documents using a custom format.</li>
+    </ol>
+
+    <h3>Extended Mixing Options</h3>
+    <ol>
+        <li>Mix paint outside the canvas.</li>
+        <li>Includes a scratchpad for testing colors off-canvas.</li>
+    </ol>
+    
+    <h2>Launching the Docker</h2>
+    <ol>
+        <li>Navigate to Settings -> Dockers and enable Palette Tin to display the Docker.</li>
+    </ol>
+
+    <h2>Usage</h2>
+    <ol>
+        <li>Mixing: Select a mixing mode from the dropdown, adjust the mix rate, and click on the palette grid to mix colors.</li>
+        <li>Scratchpad: Test and experiment with colors off the main canvas.</li>
+        <li>Palette Storage: Save and load your palettes directly within the document for future use.</li>
+    </ol>
+
+    <p>For further information, visit our GitHub repository:</p>
+    <a href="https://github.com/josepablo-espinoza/palette-tin">https://github.com/josepablo-espinoza/palette-tin</a>
+</body>
+</html>

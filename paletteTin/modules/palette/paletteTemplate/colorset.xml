@@ -1,0 +1,194 @@
+<ColorSet version="2.0" rows="8" columns="6" name="test1" comment="">
+  <ColorSetEntry spot="true" id="RQH"  name="whitish Green" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.8862745098039215" g="0.9058823529411765" b="0.8901960784313725"/>
+    <Position row="0" column="0"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="MVU"  name="grayish Gray" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7843137254901961" g="0.7843137254901961" b="0.7843137254901961"/>
+    <Position row="0" column="1"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="YAU"  name="grayish Gray" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7843137254901961" g="0.7843137254901961" b="0.7843137254901961"/>
+    <Position row="0" column="2"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="IDE"  name="grayish Gray" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7843137254901961" g="0.7843137254901961" b="0.7843137254901961"/>
+    <Position row="0" column="3"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="XPJ"  name="very light vivid Vermilion" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.8705882352941177" g="0.3568627450980392" b="0.0784313725490196"/>
+    <Position row="0" column="4"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="HYI"  name="very light vivid Amber" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.9803921568627451" g="0.8823529411764706" b="0.0"/>
+    <Position row="0" column="5"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="SSY"  name="blackish Capri" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.1607843137254902" g="0.17254901960784313" b="0.17647058823529413"/>
+    <Position row="1" column="0"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="KVC"  name="moderate pale Cerulean" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.21568627450980393" g="0.2235294117647059" b="0.27058823529411763"/>
+    <Position row="1" column="1"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="PUW"  name="grayish Gray" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7843137254901961" g="0.7843137254901961" b="0.7843137254901961"/>
+    <Position row="1" column="2"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="UEE"  name="grayish Gray" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7843137254901961" g="0.7843137254901961" b="0.7843137254901961"/>
+    <Position row="1" column="3"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="ILS"  name="light brilliant Red" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7529411764705882" g="0.24313725490196078" b="0.16470588235294117"/>
+    <Position row="1" column="4"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="TIT"  name="moderate dim Orange" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.32941176470588235" g="0.2901960784313726" b="0.24313725490196078"/>
+    <Position row="1" column="5"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="WCB"  name="moderate pale Capri" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.43529411764705883" g="0.5254901960784314" b="0.5568627450980392"/>
+    <Position row="2" column="0"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="KDY"  name="moderate dim Blue" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.2627450980392157" g="0.2549019607843137" b="0.38823529411764707"/>
+    <Position row="2" column="1"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="KTC"  name="grayish Gray" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7843137254901961" g="0.7843137254901961" b="0.7843137254901961"/>
+    <Position row="2" column="2"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="TZB"  name="grayish Gray" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7843137254901961" g="0.7843137254901961" b="0.7843137254901961"/>
+    <Position row="2" column="3"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="BDS"  name="light brilliant Red" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.6549019607843137" g="0.21176470588235294" b="0.1607843137254902"/>
+    <Position row="2" column="4"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="OIB"  name="light vivid Erin" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.0" g="0.5725490196078431" b="0.2784313725490196"/>
+    <Position row="2" column="5"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="RQV"  name="moderate brilliant Azure" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.1450980392156863" g="0.20784313725490197" b="0.33725490196078434"/>
+    <Position row="3" column="0"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="MWV"  name="moderate dim Blue" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.2980392156862745" g="0.28627450980392155" b="0.5019607843137255"/>
+    <Position row="3" column="1"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="NOP"  name="light dim Blue" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.4235294117647059" g="0.41568627450980394" b="0.6705882352941176"/>
+    <Position row="3" column="2"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="WKS"  name="grayish Gray" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7843137254901961" g="0.7843137254901961" b="0.7843137254901961"/>
+    <Position row="3" column="3"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="BHX"  name="grayish Gray" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7843137254901961" g="0.7843137254901961" b="0.7843137254901961"/>
+    <Position row="3" column="4"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="ZSP"  name="light dim Chartreuse" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.4470588235294118" g="0.7529411764705882" b="0.3333333333333333"/>
+    <Position row="3" column="5"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="OHV"  name="moderate brilliant Azure" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.12156862745098039" g="0.25882352941176473" b="0.5137254901960784"/>
+    <Position row="4" column="0"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="GQE"  name="grayish Cerulean" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.6823529411764706" g="0.6862745098039216" b="0.8313725490196079"/>
+    <Position row="4" column="1"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="EUB"  name="moderate dim Azure" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.20392156862745098" g="0.27058823529411763" b="0.44313725490196076"/>
+    <Position row="4" column="2"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="JNR"  name="very light pale Amber" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.996078431372549" g="0.9921568627450981" b="0.7647058823529411"/>
+    <Position row="4" column="3"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="OQM"  name="light dim Red" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.7450980392156863" g="0.5333333333333333" b="0.5058823529411764"/>
+    <Position row="4" column="4"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="HAA"  name="light brilliant Lime" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.592156862745098" g="0.7568627450980392" b="0.21176470588235294"/>
+    <Position row="4" column="5"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="FTZ"  name="light vivid Capri" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.0" g="0.5098039215686274" b="0.7647058823529411"/>
+    <Position row="5" column="0"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="UBB"  name="very light pale Cerise" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.9647058823529412" g="0.7568627450980392" b="0.8666666666666667"/>
+    <Position row="5" column="1"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="KVP"  name="moderate dim Cerulean" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.2549019607843137" g="0.3215686274509804" b="0.5372549019607843"/>
+    <Position row="5" column="2"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="DFD"  name="very light vivid Orange" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.9647058823529412" g="0.7450980392156863" b="0.09019607843137255"/>
+    <Position row="5" column="3"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="SPX"  name="very light dim Vermilion" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.8862745098039215" g="0.7372549019607844" b="0.6549019607843137"/>
+    <Position row="5" column="4"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="CKI"  name="very light vivid Rose" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.9254901960784314" g="0.09803921568627451" b="0.4823529411764706"/>
+    <Position row="5" column="5"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="XSS"  name="very light vivid Crimson" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.8666666666666667" g="0.11764705882352941" b="0.16862745098039217"/>
+    <Position row="6" column="0"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="RUE"  name="moderate vivid Cyan" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.054901960784313725" g="0.4627450980392157" b="0.4627450980392157"/>
+    <Position row="6" column="1"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="ZFN"  name="light brilliant Azure" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.27058823529411763" g="0.43529411764705883" b="0.7019607843137254"/>
+    <Position row="6" column="2"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="FOM"  name="very light vivid Orange" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.9529411764705882" g="0.6588235294117647" b="0.10980392156862745"/>
+    <Position row="6" column="3"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="XRF"  name="grayish Crimson" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.8941176470588236" g="0.8470588235294118" b="0.8509803921568627"/>
+    <Position row="6" column="4"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="CPV"  name="very light brilliant Rose" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.9098039215686274" g="0.2549019607843137" b="0.5607843137254902"/>
+    <Position row="6" column="5"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="VWT"  name="very light vivid Orange" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.9372549019607843" g="0.5882352941176471" b="0.12941176470588237"/>
+    <Position row="7" column="0"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="PUJ"  name="light vivid Gashyanta" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.08235294117647059" g="0.5764705882352941" b="0.5254901960784314"/>
+    <Position row="7" column="1"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="RAX"  name="light brilliant Orange" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.6862745098039216" g="0.5333333333333333" b="0.16862745098039217"/>
+    <Position row="7" column="2"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="GQH"  name="very light vivid Red" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.8392156862745098" g="0.09019607843137255" b="0.07450980392156863"/>
+    <Position row="7" column="3"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="TCC"  name="very light pale Cerise" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.9647058823529412" g="0.7568627450980392" b="0.8666666666666667"/>
+    <Position row="7" column="4"/>
+  </ColorSetEntry>
+  <ColorSetEntry spot="true" id="ZAL"  name="light dim Violet" bitdepth="U8">
+    <RGB space="sRGB built-in" r="0.5215686274509804" g="0.3215686274509804" b="0.615686274509804"/>
+    <Position row="7" column="5"/>
+  </ColorSetEntry>
+</ColorSet>

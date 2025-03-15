@@ -1,0 +1,6 @@
+{
+    "mixingMode": 2,
+    "mixRate": 50.0,
+    "historySize": 25,
+    "minizeRetainWitdh": true
+}
