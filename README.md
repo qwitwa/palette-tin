@@ -16,7 +16,7 @@ PaletteTin is built to enhance your painting workflow by:
   <img src="/readme-assets/palletTin-help.png" />
 </p>
 
-https://github.com/user-attachments/assets/
+https://github.com/user-attachments/assets/651b54da-58e7-4a2f-8bff-e40c80116dfc
 
 ## Features
 
