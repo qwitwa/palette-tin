@@ -40,13 +40,13 @@ https://github.com/user-attachments/assets/651b54da-58e7-4a2f-8bff-e40c80116dfc
 
 Open Krita go to `Tools > Scripts > Import Python Plugin From Web` and paste the following URL.
 
-https://github.com/josepablo-espinoza/palette-tin/releases/latest/download/palette-tin.zip
+https://github.com/josepablo-espinoza/palette-tin/releases/download/v0.1.0/Krita-Palette-Tin.zip
 
 ### Method 2
 
 1. **Download latest release zip**:
 
-  https://github.com/josepablo-espinoza/palette-tin/releases/latest/download/palette-tin.zip
+  https://github.com/josepablo-espinoza/palette-tin/releases/download/v0.1.0/Krita-Palette-Tin.zip
 
 2. **Upload the plugin into Krita**: 
 
