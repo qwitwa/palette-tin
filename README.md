@@ -1,5 +1,5 @@
 # PaletteTin
-
+## Overview
 Palette Tin is a Krita Docker plugin designed to help with color mixing and palette management. Inspired by the Art Academy mixing interface, it aims to make painting more fun by reducing the need for micromanaging color picking and mixing outside the canvas.
 
 ## Why PaletteTin?
