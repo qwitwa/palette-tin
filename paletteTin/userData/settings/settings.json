@@ -1,5 +1,5 @@
 {
-    "mixingMode": 2,
+    "mixingMode": 1,
     "mixRate": 50.0,
     "historySize": 25,
     "minizeRetainWitdh": true
